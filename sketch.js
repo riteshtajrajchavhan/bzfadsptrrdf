@@ -131,7 +131,7 @@ function setup() {
    groundgroup = createGroup()
    agroup=createGroup();
 
-song.loop();
+//song.loop();
 
 //alert(" ")
 
