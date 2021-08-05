@@ -133,7 +133,7 @@ function setup() {
 
 //song.loop();
 
-alert("IF THE GAME IS NOT WORKING PROPERLY OR LAGING SO PLEASE RESTART THE GAME AND PLEASE GIVE RATEING BEACAUSE THIS IS MY FIRST GAME SO PLEASE TELL ME HOW IT IS")
+alert("Hi users there is new version of Ben Zack Fighter so Please update your game ")
 
 }
 
