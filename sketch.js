@@ -131,9 +131,9 @@ function setup() {
    groundgroup = createGroup()
    agroup=createGroup();
 
-//song.loop();
+song.loop();
 
-alert("Hi users there is new version of Ben Zack Fighter so Please update your game ")
+//alert(" ")
 
 }
 
