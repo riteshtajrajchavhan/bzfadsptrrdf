@@ -133,7 +133,7 @@ function setup() {
 
 //song.loop();
 
-//alert(" ")
+alert("new update has came so please update the game")
 
 }
 
