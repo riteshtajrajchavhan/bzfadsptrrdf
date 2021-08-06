@@ -133,7 +133,7 @@ function setup() {
 
 //song.loop();
 
-alert("new update has came so please update the game. link:- https://play.google.com/store/apps/details?id=com.gmail.tajrajchavhan.zack")
+alert("new update has came so please update the game")
 
 }
 
